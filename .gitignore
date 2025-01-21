@@ -4,6 +4,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 TextMatcher.iml
+src/sample.txt
 
 ### Eclipse ###
 .apt_generated

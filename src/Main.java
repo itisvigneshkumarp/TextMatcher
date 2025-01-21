@@ -10,7 +10,7 @@ import java.util.regex.*;
 public class Main {
 
     public static void main(String[] args) {
-        String filePath = "/Users/vigneshkumarp/IdeaProjects/TextMatcher/src/sample.txt"; // Replace with the actual file path
+        String filePath = ""; // Replace with the actual file path
         List<String> searchStrings = Arrays.asList("Timothy"); // Replace with desired search words
 
         try {
